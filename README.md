@@ -7,12 +7,12 @@
 ## Application Overview
 
 ### Create a User
-<img src = "./create-user.gif" alt="Create User" height= "720">
+<img src = "./create-user.gif" alt="Create User">
 
 ### Create a New Expense Log and View Existing Expense Logs
-<img src = "./create-expense.gif" alt="Create Expense" height= "720">
+<img src = "./create-expense.gif" alt="Create Expense">
 
 ### Edit and Delete Existing Expense Logs
-<img src = "./edit-delete.gif" alt="Edit and Delete Expenses" height= "720">
+<img src = "./edit-delete.gif" alt="Edit and Delete Expenses">
 
 
